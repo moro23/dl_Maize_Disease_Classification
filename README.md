@@ -22,3 +22,6 @@ To train an ANN to classify three type of maize diseases. Namely:
 
 - Starting Notebook
     - jupyter-notebook
+
+## Deployment Url
+ - https://moro23-maize-disease-classification-app.hf.space/
